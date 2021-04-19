@@ -1,2 +1,2 @@
 # Imersão Dev Aluraflix
-Uma "biblioteca" para ver os trailer dos filmes
+Uma "biblioteca" para ver os filmes
